@@ -42,6 +42,8 @@ public class Learn_LinkedList {
        num.addLast(78);
        System.out.println(num);
 
+       num.remove(1);
+        System.out.println(num);
 
        // and there are many more methods we can use same like add.
    }
