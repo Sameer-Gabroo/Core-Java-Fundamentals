@@ -1,0 +1,2 @@
+In Multiple inharetance there just a diffrence that we can implement multiple interface in a signale class you can check the flow we have created the 4
+interface for the smartphone class and implement call interface in 1 class and how it is working
