@@ -1,0 +1,20 @@
+Java Exceptions
+
+An exception is an unexpected event that occurs during program execution. It affects the flow of the program instructions which can cause the program to terminate abnormally.
+
+An exception can occur for many reasons. Some of them are:
+
+Invalid user input
+Device failure
+Loss of network connection
+Physical limitations (out of disk memory)
+Code errors
+Opening an unavailable file
+
+
+
+ There are 2 types of Exception Runtime exception and compile time exception.
+
+ Run Time Exception : Is basically a programmer fault means if i write i code to acces the index 10 of array lenght 5 then it will through the indexOutOfBound error.
+ Compile Time Exception / IO Exception (Input output Exception )  : Is basically when the code is getting compiled and if the files is missing which code is trying to access is called
+ as Compile time Exception. so basically we got this erorr while we are  dealing with secandrey memory.

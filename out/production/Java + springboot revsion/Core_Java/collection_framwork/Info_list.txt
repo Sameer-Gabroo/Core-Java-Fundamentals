@@ -1,0 +1,28 @@
+In Collection frame work there is a main class called List and under this class we have three main framworks which is
+
+
+
+List                                             Set                                             Queue
+ |                                                |                                                |
+ Linked List                                   HashSet                                          ArrayDeque
+ |                                                |                                                 |
+ ArrayList                                    LinkedHashSet                                     Priority Queue
+ |                                                |                                                 |
+ Stack                                          TreeSet                                         linkedList
+ |
+ Vector
+
+ Above is the Tree of list collection framwork then we have to more Collection framwork which is Map & Itrator.
+
+
+//       ArrayList = A Solid Block
+//       Think of an ArrayList like a long bench where everyone sits shoulder-to-shoulder.
+//       Structure: It uses a dynamic array internally.
+//       Access: Super fast. If you want the 5th person, you go straight to seat #5.
+//       Problem: If you want to squeeze a new person into seat #2, everyone from seat #2 to the end has to stand up and scoot over one spot. That is slow.
+//
+//      LinkedList = A Chain
+//       Think of a LinkedList like a treasure hunt or a chain of people holding hands.
+//       Structure: It uses a "Doubly Linked List" (Nodes). Each element knows who is before it and who is after it
+//       Access: Slow. If you want the 5th person, you have to start at #1, ask them where #2 is, ask #2 where #3 is... until you get to #5
+//       Advantage: If you want to add someone at spot #2, you just break the hand-holding between #1 and #2 and insert the new person. No one else has to move.
