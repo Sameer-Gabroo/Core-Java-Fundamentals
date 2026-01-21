@@ -23,3 +23,9 @@ class child1 extends Abstract_Class {
 //    Absract class is just a class which contain abstract method init
 //   abstract method is a method which dose not contain body init and the class which extend this class will provide the body of abstract methos if not then that should also be abstract.
 //   we cann not create the object of abstract class
+
+class test{
+    static void main(String[] args) {
+
+    }
+}

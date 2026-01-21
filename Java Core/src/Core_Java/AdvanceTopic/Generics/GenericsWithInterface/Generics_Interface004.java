@@ -1,4 +1,4 @@
-package Core_Java.AdvanceTopic.Generics;
+package Core_Java.AdvanceTopic.Generics.GenericsWithInterface;
 
 
 //In this we will learn how will Add Generics in  interface

@@ -1,4 +1,4 @@
-package Core_Java.AdvanceTopic.Generics;
+package Core_Java.AdvanceTopic.Generics.GenericsWithClass;
 
 import java.util.ArrayList;
 import java.util.List;

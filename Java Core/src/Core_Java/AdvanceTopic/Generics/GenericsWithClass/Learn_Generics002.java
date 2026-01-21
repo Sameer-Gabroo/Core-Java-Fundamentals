@@ -1,4 +1,4 @@
-package Core_Java.AdvanceTopic.Generics;
+package Core_Java.AdvanceTopic.Generics.GenericsWithClass;
 
 
 //how to create the generic class

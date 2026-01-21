@@ -17,7 +17,7 @@ public interface Animal {
 
 //    Defual method
     public default void animalWalk(){              //we can create the default method this method is not accesseble through class but can be acces through instance
-        System.out.println("animal is walking "); //the reason we create the default methid is if we don;t the instance to provide implementation which may cause the erorr to everyclass which implement this interface so we will provide the body
+        System.out.println("animal is walking "); //the reason we create the default methid is if we want the instance to provide implementation which may cause the erorr to everyclass which implement this interface so we will provide the body
     }
 
 

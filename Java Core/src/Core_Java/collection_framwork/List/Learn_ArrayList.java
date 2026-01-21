@@ -44,6 +44,7 @@ public class Learn_ArrayList {
 
 
        // and there are many more methods we can use same like add.
+
    }
 
 

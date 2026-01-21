@@ -1,4 +1,4 @@
-package Core_Java.AdvanceTopic.Generics;
+package Core_Java.AdvanceTopic.Generics.GenericsWithClass;
 
 public class Learn_Generics003 {
     static void main(String[] args) {
